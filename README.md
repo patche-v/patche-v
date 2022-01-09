@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:man_technologist: I’m a software engineer from Ohrid, Macedonia with a passion for computers, programming and designing and developing distributed systems.
+
+:construction_worker: I'm currently working @ [InPlayer](https://github.com/inplayer-org) as Backend Engineer.
+
+
+
 <!--
 **patche-v/patche-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
