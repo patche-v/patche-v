@@ -2,7 +2,9 @@
 
 :man_technologist: I’m a software engineer from Ohrid, Macedonia with a passion for computers, programming and designing and developing distributed systems.
 
-:construction_worker: I'm currently working @ [InPlayer](https://inplayer.com/) as Backend Engineer. 
+🔭 I love ≡𝐺𝑂≡, and like to contribute to open-source projects in my free time. 
+
+:construction_worker: Currently I'm working @ [InPlayer](https://inplayer.com/) as Backend Engineer. 
 
 
 
