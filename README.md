@@ -4,7 +4,7 @@
 
 🔭 I love ≡𝐺𝑂≡, and like to contribute to open-source projects in my free time. 
 
-:construction_worker: Currently I'm working @ [InPlayer](https://inplayer.com/) as Backend Engineer. 
+:construction_worker: Currently I'm working as a Backend Engineer. 
 
 
 
