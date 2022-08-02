@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:man_technologist: I’m a software engineer from Ohrid, Macedonia with a passion for computers, programming and designing and developing distributed systems.
+:man_technologist: I’m a software engineer from Skopje, Macedonia with a passion for computers, programming and designing and developing distributed systems.
 
 🔭 I love ≡𝐺𝑂≡, and like to contribute to open-source projects in my free time. 
 
