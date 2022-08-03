@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=patche-v&hide=stars,issues&count_private=true&title_color=BA5F17&icon_color=84628F&text_color=BEBEBE&bg_color=242424" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=patche-v&hide=stars,issues&hide_rank=true&count_private=true&title_color=BA5F17&icon_color=84628F&text_color=BEBEBE&bg_color=242424" />
 </a>
 
 :man_technologist: I’m a software engineer from Skopje, Macedonia with a passion for computers, programming and designing and developing distributed systems.
