@@ -6,7 +6,7 @@
 
 :man_technologist: I’m a software engineer from Skopje, Macedonia who is passionate about computers and enjoys working on diverse projects that challenge my skills and push me to learn and grow.
 
-🔭 I love ≡𝐺𝑂≡, and like to contribute to open-source projects in my free time. 
+🔭 I love ≡𝐺𝑂≡ and like to contribute to open source projects in my free time. 
 
 :construction_worker: Currently I'm working as a Backend Engineer. 
 
