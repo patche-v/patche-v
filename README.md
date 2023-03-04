@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=patche-v&hide=stars,issues&hide_rank=true&count_private=true&title_color=BA5F17&icon_color=84628F&text_color=BEBEBE&bg_color=242424" />
 </a>
 
-:man_technologist: I’m a software engineer from Skopje, Macedonia with a passion for computers, programming and designing and developing distributed systems.
+:man_technologist: I’m a software engineer from Skopje, Macedonia who is passionate about computers and enjoys working on diverse projects that challenge my skills and push me to learn and grow.
 
 🔭 I love ≡𝐺𝑂≡, and like to contribute to open-source projects in my free time. 
 
