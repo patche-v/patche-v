@@ -8,7 +8,7 @@
 
 🔭 I love ≡𝐺𝑂≡ and like contributing to open source projects in my free time. 
 
-:construction_worker: Currently I'm working as a Backend Engineer. 
+:hammer: Currently I'm working as a Backend Engineer. 
 
 
 
